@@ -1,4 +1,55 @@
-/**
- * @file
- * Subtheme specific CSS.
- */
+
+p{
+    color: #0d1b2a;
+}
+#navbar-main {
+background-color: #000000;
+
+}
+.button {
+    background-color: #c47a2c;
+    color: #0b0e13;
+}
+#block-csilver-main-menu {
+    background-color: #c47a2c ;
+}
+.navbar-brand {
+    color: #c47a2c ;
+}
+#main-wrapper{
+    background-color: #0d1b2a ;
+    color: #0d1b2a
+}
+#main-wrapper p {
+color: #0d1b2a;
+}
+#navbar-top {
+    background-color: #000000 ;
+}
+.page-link {
+    background-color:#0d1b2a;
+    color:#e07d15;
+}
+a {
+    color: #0d1b2a ;
+}
+html,body {
+    background-color: #c47a2c ;
+}
+.highlighted {
+    background-color: #e07d15 ;
+}
+.breadcrumb{
+    background-color:  #e07d15 ;
+    color: #e07d15 ;
+}
+.breadcrumb-item {
+    color: #e07d15 ;
+}
+#content{
+    background-color: #e07d15
+}
+#edit-submit--2 {
+    background-color: #0d1b2a ;
+    color: #e07d15 ;
+}
